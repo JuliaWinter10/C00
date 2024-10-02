@@ -2,5 +2,5 @@ void ft_putchar(char c);
 
   int main(){
             char c = 'A';
-write(1,&c,1);
+  write(1,&c,1);
   }
